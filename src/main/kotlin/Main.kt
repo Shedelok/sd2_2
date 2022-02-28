@@ -1,0 +1,4 @@
+fun main() {
+    Server.start()
+}
+
